@@ -9,8 +9,8 @@
 [GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Trello]
 
 ## 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiventurin&theme=moltack&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiventurin&layout=compact&theme=moltack&show_icons=true)](https://github.com/gabiventurin/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiventurin&theme=bear&background_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiventurin&layout=compact&theme=bear&background_icons=true)](https://github.com/gabiventurin/github-readme-stats)
 
 ## Contribuition:
 
@@ -18,7 +18,7 @@
 
 ## My Streaks:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gabiventurin&theme=moltack&show=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gabiventurin&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 [![](https://visitcount.itsvg.in/api?id=Benhurds12&icon=0&color=0)](https://visitcount.itsvg.in)
 
