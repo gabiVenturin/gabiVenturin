@@ -3,7 +3,7 @@
 # 😁Who am i?
 Estudante de Sistemas de Informações na Each USP
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/antôniopaess/](https://www.linkedin.com/in/gabriela-carvalho-vitorino-452651292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/gabriela-carvalho-vitorino-452651292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]) 
 
 
 # 💻 Tech Stack:
