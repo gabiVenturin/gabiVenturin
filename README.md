@@ -13,7 +13,6 @@ Estudante de Sistemas de Informações na Each USP
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiventurin&theme=moltack&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiventurin&layout=compact&theme=moltack&show_icons=true)](https://github.com/gabiventurin/github-readme-stats)
 
----
 ## Contribuition:
 
 [![Gab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabiventurin&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
