@@ -18,6 +18,10 @@ Estudante de Sistemas de Informações na Each USP
 
 [![Gab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabiventurin&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## My Streaks:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AntonioPaess&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 [![](https://visitcount.itsvg.in/api?id=Benhurds12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
