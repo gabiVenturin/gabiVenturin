@@ -14,10 +14,11 @@ Estudante de Sistemas de Informações na Each USP
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiventurin&layout=compact&theme=moltack&show_icons=true)](https://github.com/gabiventurin/github-readme-stats)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Benhurds12&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Contribuition:
 
-[![Alan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabiventurin&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabiventurin&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![](https://visitcount.itsvg.in/api?id=Benhurds12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
