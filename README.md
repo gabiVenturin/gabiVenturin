@@ -1,4 +1,4 @@
-# Hello, I'm Gabriela Carvalho!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Gabriela+Carvalho;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
 <div> <a href="www.linkedin.com/in/gabriela-carvalho-vitorino" target="_blank"> </div>
 
