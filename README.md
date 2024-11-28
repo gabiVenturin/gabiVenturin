@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Gabriela+Carvalho;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
-<div> <a href="www.linkedin.com/in/gabriela-carvalho-vitorino" target="_blank"> </div>
+# 😁Who am i?
+Estudante de Sistemas de Informações na Each USP
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabriela-carvalho-vitorino/) 
 
 
 # 💻 Tech Stack:
