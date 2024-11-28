@@ -20,7 +20,7 @@ Estudante de Sistemas de Informações na Each USP
 
 ## My Streaks:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AntonioPaess&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gabiventurin&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 [![](https://visitcount.itsvg.in/api?id=Benhurds12&icon=0&color=0)](https://visitcount.itsvg.in)
 
