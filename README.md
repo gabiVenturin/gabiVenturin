@@ -10,7 +10,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
 ## 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiventurin&theme=bear&background=000&border=30A3DC&dates=FFF_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiventurin&theme=bear&background_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiventurin&layout=compact&theme=bear&background_icons=true)](https://github.com/gabiventurin/github-readme-stats)
 
 ## Contribuition:
